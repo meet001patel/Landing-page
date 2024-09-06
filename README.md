@@ -29,13 +29,13 @@ Responsive Design: Ensures the layout adapts to different screen sizes (desktop,
 
 ### 4. Installation
 - Clone the repository:
-  `bash`
+ <br> `bash`<br>
 `git clone https://github.com/meet001patel/Landing-page.git`
 + Navigate to the project folder:
-`bash`
+<br>`bash`<br>
 `cd 42-kadva-patidar-landing-page`
 - Open the index.html file in your browser:
-`bash`
+<br>`bash`<br>
 `open index.html`
 
 ### 5. Usage
